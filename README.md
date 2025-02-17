@@ -1,1 +1,1 @@
-# Synthesis-principle
+# Appendix 3: Synthesis-principle
